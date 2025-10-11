@@ -1,0 +1,22 @@
+Installation & Introduction to Python
+🔧 Topics Covered:
+
+Installing Python on Windows using the official website (python.org).
+
+Setting up environment variables and verifying installation using python --version.
+
+Installing and exploring IDEs such as IDLE, VS Code, and Jupyter Notebook.
+
+Introduction to Python programming language — an interpreted, high-level, and dynamically typed language.
+
+📘 Concepts Learned:
+
+Python executes code line by line, making debugging simple.
+
+It’s widely used in web development, data science, AI, automation, and more.
+
+Python syntax is clean and readable, making it an excellent first programming language.
+
+💡 Key Takeaway:
+
+Python’s simplicity and vast community support make it the most powerful language for beginners and professionals alike.
